@@ -3,3 +3,6 @@ function smash(words) {
 }
 
 let words = ['hello', 'wordl', 'this', 'is', 'great']
+
+console.log(smash())
+console.log(words)
